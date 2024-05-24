@@ -1,0 +1,6 @@
+Info: Front (top side) placement file: 'D:\Users\2790755\Documents\KiCad\SCALES PCB\minimal viable board design files\Minimal\RP2040_minimal\RP2040_minimal-top.pos'.
+Info: Component count: 35.
+Info: Back (bottom side) placement file: 'D:\Users\2790755\Documents\KiCad\SCALES PCB\minimal viable board design files\Minimal\RP2040_minimal\RP2040_minimal-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 35.
+Info: File generation successful.
