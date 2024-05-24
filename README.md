@@ -17,5 +17,5 @@ Since you're interested in leaning more towards the electronics side of things, 
 - Has an I2C sensor integrated (any sensor).
 - JLC PCB production files completed (BOM, POS, and Gerbers generated in correct format)
 - Preferably designed in KiCad (Eagle or Altium will also suffice)
-- 
+
 We understand that PCB design is not usually taught at the university level, so it is rare to have prior experience with it. This challenge is primarily to test your ability to be technically independent and learn a new design skill quickly. Both Digikey (https://www.youtube.com/@digikey) and Phil's Lab (https://www.youtube.com/@PhilsLab) on YouTube have excellent beginner level PCB design tutorials. If you have the time to attempt it over the weekend that would be great, but don't worry if you need more time. A follow-up design review can be scheduled to assess how you have done, and if the design looks satisfactory, we'll go ahead and order it for you to test!
