@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040")(type "KiCad")(uri "C:/Users/cisne/OneDrive - Cal Poly Pomona/Bronco Space/SC0914_13_/KiCADv6/2024-05-20_14-52-03.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/ABM8_272_T3/KiCADv6/2024-05-21_16-35-04.kicad_sym")(options "")(descr ""))
+  (lib (name "ABLS2-12.000MHZ-D4Y-T")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/ABLS2_12_000MHZ_D4Y_T/ABLS2-12.000MHZ-D4Y-T.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS810_SJM_250_SMTR_LFS_unspecified_inputs")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/PTS810_SJM_250_SMTR_LFS/KiCADv6/2024-05-21_18-43-29.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS810_SJM_250_SMTR_LFS")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/PTS810_SJM_250_SMTR_LFS (1)/PTS810_SJM_250_SMTR_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS810SJS250SMTRLFS")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/PTS810SJS250SMTRLFS/KiCADv6/2024-05-21_18-52-53.kicad_sym")(options "")(descr ""))
+  (lib (name "HDC1080DMBR")(type "KiCad")(uri "C:/Users/cisne/OneDrive/Documents/KiCad/libraries/HDC1080DMBR/KiCADv6/2024-05-22_02-17-30.kicad_sym")(options "")(descr ""))
+)
